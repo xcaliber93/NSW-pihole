@@ -32,3 +32,15 @@
 0.0.0.0 nintendoswitch.com
 0.0.0.0 nintendoswitch.com.cn
 0.0.0.0 nintendoswitch.cn
+
+
+0.0.0.0 aauth-lp1.ndas.srv.nintendo.net
+0.0.0.0 accounts.nintendo.com
+0.0.0.0 atumn.hac.lp1.d4c.nintendo.net
+0.0.0.0 bcat-list-lp1.cdn.nintendo.net
+0.0.0.0 broker.lp1.npns.srv.nintendo.net
+0.0.0.0 consumer.lp1.npns.srv.nintendo.net
+0.0.0.0 ctest.cdn.nintendo.net
+0.0.0.0 dauth-lp1.ndas.srv.nintendo.net
+0.0.0.0 e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com
+0.0.0.0 receive-lp1.dg.srv.nintendo.net
